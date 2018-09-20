@@ -1,4 +1,4 @@
-#Install script By Ubaii ID
+#Install script By AhmadMaZulPahwan7
 #hargai pembuat. jangan otak Atik script nya.
 #makasih atas kerjasama nya
 
